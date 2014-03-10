@@ -1,0 +1,4 @@
+tipsCalculator
+==============
+
+Tips Calculator
